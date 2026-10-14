@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana implementasi peningkatan sistem GradeSorter:\n1. Dukungan multi-kolom nilai sekaligus (misal: Tugas, UTS, UAS atau Nilai 1, Nilai 2, dst.).\n2. Visualisasi grafik batang distribusi nilai dan ambang batas KKM dinamis.\n3. Tab & daftar ringkas siswa remedial (< KKM) dengan tombol salin daftar remedial untuk pengumuman kelas.\n4. Pembaruan ekspor Excel/CSV dan pratinjau spreadsheet interaktif multi-kolom.",
+  "updatedAt": "2026-10-13T07:08:04.767720107Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
