@@ -1,0 +1,8 @@
+{
+  "name": "GradeSorter",
+  "description": "Aplikasi penyusun nilai siswa otomatis berdasarkan urutan daftar absen lama dengan fitur ekspor data yang mudah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
